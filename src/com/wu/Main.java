@@ -8,6 +8,8 @@ public class Main {
 		System.out.println("hello wold");
 		System.out.println("hello admin");
 		System.out.println("hello, i am the web");
+		
+		System.out.println("Hello, i am eclipse");
 
 	}
 
