@@ -14,6 +14,8 @@ public class Main {
 		System.out.println("How are u?");
 		
 		System.out.println("I am fine, and u?");
+		
+		System.out.println("Just so so");
 
 	}
 
