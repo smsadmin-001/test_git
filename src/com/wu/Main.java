@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("my git is run");
 		System.out.println("hello wold");
 		System.out.println("hello admin");
+		System.out.println("hello, i am the web");
 
 	}
 
